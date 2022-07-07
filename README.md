@@ -18,4 +18,4 @@ It is aimed at making all parties make better decisions and thus streamline the 
 3. Github/Git 
 4. Canva
 
-The data set can be found here [[https://www.kaggle.com/datasets/jimschacko/airlines-dataset-to-predict-a-delay]]
+The data set can be found [here](https://www.kaggle.com/datasets/jimschacko/airlines-dataset-to-predict-a-delay)
